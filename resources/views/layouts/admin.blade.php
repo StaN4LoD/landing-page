@@ -4,7 +4,7 @@
     <meta charset="utf-8">
     <meta name="viewport" content="width=device-width, maximum-scale=1">
     <title>{{$title}}</title>
-    <link rel="icon" href="favicon.png" type="image/png">
+    <link rel="icon" href="{{asset('favicon.png')}}" type="image/png">
     <link href="{{asset('css/bootstrap.min.css')}}" rel="stylesheet" type="text/css">
     <link href="{{asset('css/style.css')}}" rel="stylesheet" type="text/css">
     <!-- Fonts -->
